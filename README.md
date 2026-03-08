@@ -2,7 +2,7 @@
 Code used for the paper **"Physics Informed Neural Networks for Magnetohydrodynamic Equations"** accepted at the **ICLR 2026 workshop on AI&amp;PDE**.
 
 ## Code Release Notice
-The dedicated code is in the fill  <ins>ICLR_AI_PDE</ins>.
+The dedicated code is in the fill  <ins>ICLR_AI_PDE_code</ins>.
 ### What is included:
 * Training neural networks model using the SIPN method and transfer learning to solve 8 MHD equations
 * The solver used for evaluation
